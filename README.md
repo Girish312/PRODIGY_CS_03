@@ -15,3 +15,6 @@ This tool assesses the strength of a password based on various criteria such as 
 ### Prerequisites
 
 - Python 3.x
+### Example:
+- Enter a password: P@ssw0rd123
+- Password Strength: Strong
