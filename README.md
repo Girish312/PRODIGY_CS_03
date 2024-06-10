@@ -10,8 +10,6 @@ This tool assesses the strength of a password based on various criteria such as 
 - **Number Check**: Ensures the password contains at least one number.
 - **Special Character Check**: Ensures the password contains at least one special character from the set `@$!%*?&#`.
 
-## Getting Started
-
 ### Prerequisites
 
 - Python 3.x
