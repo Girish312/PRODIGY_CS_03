@@ -15,11 +15,3 @@ This tool assesses the strength of a password based on various criteria such as 
 ### Prerequisites
 
 - Python 3.x
-
-### Installation
-
-Clone the repository or download the script file:
-
-```bash
-git clone https://github.com/yourusername/password-strength-assessment-tool.git
-cd password-strength-assessment-tool
